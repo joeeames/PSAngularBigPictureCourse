@@ -1,2 +1,2 @@
 # PSAngularBigPictureCourse
-Course Repository for my Angular Big Picture course
+This course is up to date.
